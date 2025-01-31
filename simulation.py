@@ -23,7 +23,7 @@ def recalled_sequence(sim, save_figs=False):
 # ---- Test Functions ----
 
 def sequence_recall(sim):
-    
+    pass
 
 #  Overview of probes in model
 #  - sequence_probe: Probes the output of the sequence memory
